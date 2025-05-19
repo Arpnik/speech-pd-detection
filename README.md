@@ -4,7 +4,7 @@
 Trained deep neural network to detect Parkinson's disease from voice alone, achieving **99.4% accuracy**!
 
 ## 🛠️ Tech Stack
-#### <img src="./logos/pytorch-logo-dark.webp" width="17" height="17" alt="SpeechBrain logo" style="vertical-align: middle;">    PyTorch - Deep learning framework
+#### <img src="./logos/pytorch-logo-dark.webp" width="20" height="20" alt="SpeechBrain logo" style="vertical-align: middle;">    PyTorch - Deep learning framework
 #### <img src="./logos/speechbrain-round-logo.svg" width="17" height="17" alt="SpeechBrain logo" style="vertical-align: middle;"> [SpeechBrain](https://speechbrain.github.io/) - Speech processing toolkit
 #### <img src="./logos/orion.webp" width="15" height="15" alt="SpeechBrain logo" style="vertical-align: middle;"> [Orion Framework](https://orion.readthedocs.io/en/stable/install/gettingstarted.html) - Hyperparameter optimization
 #### 🤗 [HuggingFace](https://huggingface.co/) - Pre-trained models and [dataset](https://huggingface.co/datasets/birgermoell/Italian_Parkinsons_Voice_and_Speech)
