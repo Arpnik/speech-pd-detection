@@ -13,18 +13,18 @@ Trained deep neural network to detect Parkinson's disease from voice alone, achi
 Speech changes often appear **before** other Parkinson's symptoms. Early detection = better outcomes.
 
 ## 🔬 Models We Tested
-| Model | Accuracy | Magic ✨ |
-|-------|----------|---------|
-| 🥇 WavLM | 99.4% | Only 2 epochs! |
-| 🥈 Wav2Vec2 | 99.2% | Self-supervised power |
-| 🥉 Xvector+FBanks | 98% | Lightweight champion |
-| ⭐ Xvector+MFCCs | 94-97% | Solid performer |
-| 🤔 ECAPA-TDNN | 85-90% | Needed more data |
+| Model | Accuracy | Description                                     |
+|-------|----------|-------------------------------------------------|
+| 🥇 WavLM | 99.4% | Fine tunning pretrained self supervised model!  |
+| 🥈 Wav2Vec2 | 99.2% | Fine tunned self-supervised model               |
+| 🥉 Xvector+FBanks | 98% | Memory efficient model trained from scratch     |
+| ⭐ Xvector+MFCCs | 94-97% | Comparable performance (memory and accuracy) with FBanks |
+| 🤔 ECAPA-TDNN | 85-90% | Fine tunning pretrained model with noise        |
 
 ## 📱 Future Scope
 Your smartphone analyzing speech patterns during regular calls, providing early warning for millions. No labs. No waiting.
 
-## 🔍 Curious?
+## 🔍 Curious
 Dive into our Jupyter notebook to see how we did it!
 
 ```bash
