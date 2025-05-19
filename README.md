@@ -26,10 +26,10 @@ Dive into our Jupyter notebook to see how we did it!
 git clone https://github.com/Arpnik/speech-pd-detection
 
 # Navigate to the project directory
-cd parkinsons-voice-detection
+cd speech-pd-detection
 
 # Open the notebook
-jupyter notebook Parkinsons_Voice_Detection.ipynb
+jupyter notebook main.ipynb
 ```
 
 ## 🔮 Future Implications
