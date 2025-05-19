@@ -1,4 +1,4 @@
-# 🎙️ Voice → 🧠 Parkinson's Disease Detection
+# 🎙️ Voice → 🧠 Healthy or Parkinsonian
 
 ## 🚀 What We Did
 Trained deep neural network to detect Parkinson's disease from voice alone, achieving **99.4% accuracy**!
